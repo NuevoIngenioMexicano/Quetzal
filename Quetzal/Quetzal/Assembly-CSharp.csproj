@@ -45,7 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Test\BtnTest.cs" />
+     <Compile Include="Assets\AcelerometerControl.cs" />
+     <Compile Include="Assets\ObstacleAnimation.cs" />
+     <Compile Include="Assets\ObstacleCollider.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
